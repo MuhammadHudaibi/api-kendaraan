@@ -3,7 +3,7 @@
     "name": "Toyota Avanza",
     "category": "Mobil",
     "brand": "Toyota",
-    "image": "3.jpg",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/3.jpg",
     "harga": "Rp200.000/hari",
     "cc": null,
     "model": "MPV"
@@ -12,7 +12,7 @@
     "name": "Yamaha R15",
     "category": "Motor",
     "brand": "Yamaha",
-    "image": "5.jpg",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/5.jpg",
     "harga": "Rp100.000/hari",
     "cc": 150,
     "model": null
