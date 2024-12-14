@@ -75,7 +75,7 @@
     "name": "BMW X5",
     "category": "Mobil",
     "brand": "BMW",
-    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/bmw.jpg",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/bwm.jpg",
     "harga": "Rp1.200.000/hari",
     "cc": 3000,
     "model": "SUV"
