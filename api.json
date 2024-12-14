@@ -1,20 +1,92 @@
 [
   {
-    "name": "Toyota Avanza",
+    "name": "Toyota Innova",
     "category": "Mobil",
     "brand": "Toyota",
-    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/3.jpg",
-    "harga": "Rp200.000/hari",
-    "cc": null,
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/innova.jpg",
+    "harga": "Rp350.000/hari",
+    "cc": 2400,
     "model": "MPV"
   },
   {
-    "name": "Yamaha R15",
+    "name": "Honda CR-V",
+    "category": "Mobil",
+    "brand": "Honda",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/crv.jpg",
+    "harga": "Rp400.000/hari",
+    "cc": 1800,
+    "model": "SUV"
+  },
+  {
+    "name": "Kawasaki Ninja 250",
+    "category": "Motor",
+    "brand": "Kawasaki",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/ninja.jpg",
+    "harga": "Rp120.000/hari",
+    "cc": 250,
+    "model": "Sport"
+  },
+  {
+    "name": "Honda Vario 150",
+    "category": "Motor",
+    "brand": "Honda",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/vario.jpg",
+    "harga": "Rp70.000/hari",
+    "cc": 150,
+    "model": "Skuter"
+  },
+  {
+    "name": "Mitsubishi Pajero Sport",
+    "category": "Mobil",
+    "brand": "Mitsubishi",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/pajero.jpg",
+    "harga": "Rp450.000/hari",
+    "cc": 2500,
+    "model": "SUV"
+  },
+  {
+    "name": "Yamaha NMAX",
     "category": "Motor",
     "brand": "Yamaha",
-    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/5.jpg",
-    "harga": "Rp100.000/hari",
-    "cc": 150,
-    "model": null
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/nmax.jpg",
+    "harga": "Rp90.000/hari",
+    "cc": 155,
+    "model": "Skuter"
+  },
+  {
+    "name": "Toyota Fortuner",
+    "category": "Mobil",
+    "brand": "Toyota",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/fortuner.jpg",
+    "harga": "Rp500.000/hari",
+    "cc": 2800,
+    "model": "SUV"
+  },
+  {
+    "name": "Suzuki Swift",
+    "category": "Mobil",
+    "brand": "Suzuki",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/swift.jpg",
+    "harga": "Rp250.000/hari",
+    "cc": 1300,
+    "model": "Hatchback"
+  },
+  {
+    "name": "BMW X5",
+    "category": "Mobil",
+    "brand": "BMW",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/bmw.jpg",
+    "harga": "Rp1.200.000/hari",
+    "cc": 3000,
+    "model": "SUV"
+  },
+  {
+    "name": "Harley Davidson Sportster",
+    "category": "Motor",
+    "brand": "Harley Davidson",
+    "image": "https://raw.githubusercontent.com/MuhammadHudaibi/api-kendaraan/refs/heads/master/harley.jpg",
+    "harga": "Rp200.000/hari",
+    "cc": 1200,
+    "model": "Cruiser"
   }
 ]
