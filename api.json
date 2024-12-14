@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Toyota Avanza",
+    "category": "Mobil",
+    "brand": "Toyota",
+    "image": "1",
+    "harga": "Rp200.000/hari",
+    "cc": null,
+    "model": "MPV"
+  },
+  {
+    "name": "Yamaha R15",
+    "category": "Motor",
+    "brand": "Yamaha",
+    "image": "2",
+    "harga": "Rp100.000/hari",
+    "cc": 150,
+    "model": null
+  }
+]
